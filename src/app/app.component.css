@@ -1,0 +1,30 @@
+.navbar
+{
+    background-color:dodgerblue;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.collapse {
+    margin-left: 1300px;
+
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+    color: white;
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+    text-decoration:line-through;
+}
+
+.nav-item {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
